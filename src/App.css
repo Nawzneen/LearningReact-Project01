@@ -90,6 +90,7 @@ main {
 }
 .meme {
   position: relative;
+  width: 800px;
 }
 
 .meme--image {
